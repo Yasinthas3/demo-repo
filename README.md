@@ -1,3 +1,3 @@
 # DEMO
 
-Create new project 07/09/2020
+Create new project 07/09/2020.
